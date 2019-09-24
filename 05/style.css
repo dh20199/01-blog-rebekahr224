@@ -1,3 +1,37 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
 article {
     background:  #0000;;
+    display: flexbox;
+
+}
+
+header {
+    background: #ccccff;
+
+}
+
+section.main {
+     margin-left: 5px;
+     margin-right: 5px;
+}
+
+section.main img {
+    padding: 10px;
+    max-width: 60%;
+    float: left;
+}
+
+section.sources {
+    border: 5px solid #ccccff;
+    border-radius: 10px; 
+    margin-left: 5px;
+    margin-right: 5px;
+    
 }
